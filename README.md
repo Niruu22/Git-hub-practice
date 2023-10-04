@@ -1,2 +1,3 @@
 # Git-hub-practice
-this is practice repo
+this is a practice repo
+author Niraj
